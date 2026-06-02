@@ -1,0 +1,15 @@
+2026-06-02 10:51:50,511 - INFO - Job started
+2026-06-02 10:51:50,513 - INFO - Config validated: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-06-02 10:51:50,542 - INFO - Rows loaded: 10000
+2026-06-02 10:51:50,546 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 34, 'seed': 42, 'status': 'success'}
+2026-06-02 10:51:50,546 - INFO - Job completed successfully
+2026-06-02 16:48:37,580 - INFO - Job started
+2026-06-02 16:48:37,581 - INFO - Config validated: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-06-02 16:48:37,595 - INFO - Rows loaded: 10000
+2026-06-02 16:48:37,598 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 17, 'seed': 42, 'status': 'success'}
+2026-06-02 16:48:37,598 - INFO - Job completed successfully
+2026-06-02 17:06:42,388 - INFO - Job started
+2026-06-02 17:06:42,388 - INFO - Config validated: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-06-02 17:06:42,397 - INFO - Rows loaded: 10000
+2026-06-02 17:06:42,401 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 13, 'seed': 42, 'status': 'success'}
+2026-06-02 17:06:42,401 - INFO - Job completed successfully
